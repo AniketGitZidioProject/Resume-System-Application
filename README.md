@@ -155,7 +155,6 @@ Base path: 👉 http://localhost:8080/api
   "endDate": "2025-10-15",
   "link": "https://github.com/username/ai-project"
 }
-
 ```
 
 ##📚 Courses
