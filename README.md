@@ -208,7 +208,7 @@ Base path: 👉 http://localhost:8080/api
 {
    "name": "Java",
   "level": "Expert",
-  "endorsements": 10"
+  "endorsements": 10
 }
 ```
 
