@@ -192,8 +192,6 @@ Base path: 👉 http://localhost:8080/api
   "verificationUrl": "https://example.com/verify/award"
 }
 
-
-
 ```
 
 
@@ -206,16 +204,12 @@ Base path: 👉 http://localhost:8080/api
 
   **Create skill body (camelCase)**
 
-   ```json
+```json
 {
-  "name": "Java",
+   "name": "Java",
   "level": "Expert",
-  "endorsements": 10
+  "endorsements": 10"
 }
-
-
-
-
 ```
 
 
@@ -234,11 +228,14 @@ Base path: 👉 http://localhost:8080/api
 
 ```json
 {
-  "username": "testuser",
+   "username": "testuser",
   "password": "password123",
   "email": "testuser@example.com"
 }
+}
 ```
+
+
 
 ## 📂 Project Structure
 ```text
