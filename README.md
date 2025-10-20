@@ -232,7 +232,7 @@ Base path: 👉 http://localhost:8080/api
   "password": "password123",
   "email": "testuser@example.com"
 }
-}
+
 ```
 
 
