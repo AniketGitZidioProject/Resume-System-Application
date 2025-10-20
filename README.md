@@ -147,9 +147,9 @@ Base path: 👉 http://localhost:8080/api
 + **Delete project →** DELETE /api/projects/{id}
 + **Delete all projects by user →** DELETE /api/projects/user/{userId}
 
-  ```json
+```json
 {
-  "title": "AI Research Project",
+ "title": "AI Research Project",
   "description": "Developed an AI summarization model",
   "startDate": "2025-09-01",
   "endDate": "2025-10-15",
